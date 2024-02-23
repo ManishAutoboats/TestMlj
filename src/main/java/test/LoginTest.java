@@ -10,6 +10,7 @@ public class LoginTest {
 		  LoginTest j = new LoginTest();
 		  j.login();
 		  j.registration();
+		  //test
 	}
 
 	
